@@ -495,7 +495,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/Simone/Desktop/gerber/",
+      "plot": "gerber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "C:/Users/Simone/Desktop/Arduino_ESP1.step",

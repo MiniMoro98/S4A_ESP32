@@ -139,7 +139,7 @@
 			(mirror no)
 			(drillshape 0)
 			(scaleselection 1)
-			(outputdirectory "C:/Users/Simone/Desktop/gerber/")
+			(outputdirectory "gerber/")
 		)
 	)
 	(net 0 "")
